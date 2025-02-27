@@ -1,7 +1,5 @@
-# rust-new-project-template
+[![Tests](https://github.com/rahulsinghai/github-actions-rust-example/actions/workflows/tests.yml/badge.svg)](https://github.com/rahulsinghai/github-actions-rust-example/actions/workflows/tests.yml)
 
-A good starting point for a new Rust project
+# Example of Github actions for Rust CI Pipeline
 
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+Tests our Rust Code with GitHub Actions
